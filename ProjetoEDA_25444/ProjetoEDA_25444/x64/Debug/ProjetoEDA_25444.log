@@ -1,0 +1,8 @@
+﻿  antena.c
+  main.c
+  Gerando Código...
+C:\Users\IPCA\Documents\LESIPL\1ºAno\2ºSemestre\Estruturas de Dados Avançadas\ProjetoEDA_25444_Backup 16.03\ProjetoEDA_25444\ProjetoEDA_25444\ProjetoEDA_25444\main.c(45,22): warning C4090: 'função': diferentes qualificadores 'const'
+C:\Users\IPCA\Documents\LESIPL\1ºAno\2ºSemestre\Estruturas de Dados Avançadas\ProjetoEDA_25444_Backup 16.03\ProjetoEDA_25444\ProjetoEDA_25444\ProjetoEDA_25444\main.c(25,10): warning C4101: 'frequencia': variável local não referenciada
+C:\Users\IPCA\Documents\LESIPL\1ºAno\2ºSemestre\Estruturas de Dados Avançadas\ProjetoEDA_25444_Backup 16.03\ProjetoEDA_25444\ProjetoEDA_25444\ProjetoEDA_25444\main.c(24,19): warning C4101: 'y': variável local não referenciada
+C:\Users\IPCA\Documents\LESIPL\1ºAno\2ºSemestre\Estruturas de Dados Avançadas\ProjetoEDA_25444_Backup 16.03\ProjetoEDA_25444\ProjetoEDA_25444\ProjetoEDA_25444\main.c(24,16): warning C4101: 'x': variável local não referenciada
+  ProjetoEDA_25444.vcxproj -> C:\Users\IPCA\Documents\LESIPL\1ºAno\2ºSemestre\Estruturas de Dados Avançadas\ProjetoEDA_25444_Backup 16.03\ProjetoEDA_25444\ProjetoEDA_25444\x64\Debug\ProjetoEDA_25444.exe
